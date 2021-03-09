@@ -14,7 +14,7 @@ function content() {
               backgroundRepeat: "repeat-y",
               backgroundSize: "100% 300vh",
               padding: "40px 0",
-              height: "600vh",
+              // height: "300vh",
             }}
           >
             {contextState.contentState.cocktailData.map((cocktail) => {
@@ -22,14 +22,7 @@ function content() {
                 return (
                   <div
                     key={cocktail.idDrink}
-                    className="mx-4 my-3 px-3"
-                    style={{
-                      border: "1px solid orange",
-                      borderRadius: "15px",
-                      width: "40%",
-                      color: "white",
-                      textShadow: "2px 2px black",
-                    }}
+                    className="myContainer mx-4 my-3 px-3 py-2"
                   >
                     <h3>Name: {cocktail.strDrink}</h3>
                     <img

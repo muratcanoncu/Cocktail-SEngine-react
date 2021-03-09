@@ -19,8 +19,9 @@ function cocktailSearch() {
     >
       <h1 className="mb-5 text-white font-italic">Hello,My Lovely Ilke</h1>
       <input
-        className="w-25 py-1 px-2"
+        className="py-1 px-2"
         style={{
+          width: "350px",
           border: "none",
           borderRadius: "15px",
           fontSize: "1.3rem",

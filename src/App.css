@@ -39,3 +39,15 @@
 input {
   outline: none;
 }
+.myContainer {
+  border: 1px solid orange;
+  border-radius: 15px;
+  width: 40%;
+  color: white;
+  text-shadow: 2px 2px black;
+}
+@media only screen and (max-width: 550px) {
+  .myContainer {
+    width: 100%;
+  }
+}
