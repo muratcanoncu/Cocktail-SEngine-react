@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Cocktail-SEngine-react/static/css/main.0c22b727.chunk.css",
+    "main.js": "/Cocktail-SEngine-react/static/js/main.0bc8c97e.chunk.js",
+    "main.js.map": "/Cocktail-SEngine-react/static/js/main.0bc8c97e.chunk.js.map",
+    "runtime-main.js": "/Cocktail-SEngine-react/static/js/runtime-main.c725901e.js",
+    "runtime-main.js.map": "/Cocktail-SEngine-react/static/js/runtime-main.c725901e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Cocktail-SEngine-react/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.83e8efcb.chunk.js": "/Cocktail-SEngine-react/static/js/2.83e8efcb.chunk.js",
+    "static/js/2.83e8efcb.chunk.js.map": "/Cocktail-SEngine-react/static/js/2.83e8efcb.chunk.js.map",
+    "static/js/3.3aa08202.chunk.js": "/Cocktail-SEngine-react/static/js/3.3aa08202.chunk.js",
+    "static/js/3.3aa08202.chunk.js.map": "/Cocktail-SEngine-react/static/js/3.3aa08202.chunk.js.map",
+    "index.html": "/Cocktail-SEngine-react/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Cocktail-SEngine-react/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.0c22b727.chunk.css.map": "/Cocktail-SEngine-react/static/css/main.0c22b727.chunk.css.map",
+    "static/js/2.83e8efcb.chunk.js.LICENSE.txt": "/Cocktail-SEngine-react/static/js/2.83e8efcb.chunk.js.LICENSE.txt",
+    "static/js/main.0bc8c97e.chunk.js.LICENSE.txt": "/Cocktail-SEngine-react/static/js/main.0bc8c97e.chunk.js.LICENSE.txt",
+    "static/media/5cocktail.971e120e.jpg": "/Cocktail-SEngine-react/static/media/5cocktail.971e120e.jpg",
+    "static/media/mainBground.85948e67.jpeg": "/Cocktail-SEngine-react/static/media/mainBground.85948e67.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c725901e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.83e8efcb.chunk.js",
+    "static/css/main.0c22b727.chunk.css",
+    "static/js/main.0bc8c97e.chunk.js"
+  ]
+}
